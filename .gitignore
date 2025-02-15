@@ -1,0 +1,19 @@
+# 📌 macOS System Files
+.DS_Store
+
+# 📌 IDE / Editor Files (IntelliJ, VSCode, etc.)
+.idea/
+.vscode/
+*.iml
+
+# 📌 Logs & Temp Files
+logs/
+*.log
+
+# 📌 Dependencies (Handled in subdirectories)
+node_modules/
+target/
+dist/
+
+# 📌 Ignore environment files
+.env
